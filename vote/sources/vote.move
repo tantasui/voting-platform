@@ -101,6 +101,18 @@ public struct CandidatePass has key, store {
 
 //election created event
 
+
+
+
+
+
+
+
+
+
+
+
+
 //Candidate registered event
 
 //Vote casted event
